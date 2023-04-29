@@ -15,7 +15,7 @@
   "homepage": "https://github.com/natysoz/expo-images-picker#readme",
   "peerDependencies": {
     "react": "*",
-    "expo": "^45.0.0",
+    "expo": "^46.0.0",
     "react-native": "*"
   },
   "dependencies": {
@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "expo-image-manipulator": "~10.3.1",
-    "expo-media-library": "~14.1.0",
+    "expo-media-library": ">=14.1.0",
     "@types/styled-components": "^5.1.11",
     "@babel/core": "^7.12.9",
     "@types/react": "~17.0.21",
